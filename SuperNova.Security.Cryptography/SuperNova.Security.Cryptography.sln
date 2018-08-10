@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperNova.Security.Cryptography", "SuperNova.Security.Cryptography\SuperNova.Security.Cryptography.csproj", "{8EB7283C-213D-43F9-A5C0-92E43BF79A49}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{5EA3AEC9-54E3-49F6-9305-8E0E7387FF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB7283C-213D-43F9-A5C0-92E43BF79A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB7283C-213D-43F9-A5C0-92E43BF79A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB7283C-213D-43F9-A5C0-92E43BF79A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB7283C-213D-43F9-A5C0-92E43BF79A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA3AEC9-54E3-49F6-9305-8E0E7387FF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA3AEC9-54E3-49F6-9305-8E0E7387FF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA3AEC9-54E3-49F6-9305-8E0E7387FF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA3AEC9-54E3-49F6-9305-8E0E7387FF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A273100F-F334-41A1-8B38-98804E5A2455}
+	EndGlobalSection
+EndGlobal

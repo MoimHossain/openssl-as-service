@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  supernova.security.cryptography:
+    image: opensslserver
+    build:
+      context: .
+      dockerfile: SuperNova.Security.Cryptography/Dockerfile
